@@ -1,0 +1,32 @@
+.capa{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat:round;
+    background-position: top;
+    color: white;
+    
+  }
+  .description{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 8rem;
+
+  }
+  .description iframe{
+    flex: 1;
+    margin: 2rem;
+    border: 2px double rgb(93, 2, 93);
+
+  }
+  .texto{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding:0 1rem;
+    background: rgba(0,0,0,0.3);
+  }
+
+

@@ -1,0 +1,18 @@
+.campotexto{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  text-align: left;
+}
+.campotexto input{
+ width: 70%;
+ padding: 1em;
+}
+.campotexto label{
+  width: 70%;
+  text-align: left;
+  font-size: 1rem;
+  
+  color: white;
+}
